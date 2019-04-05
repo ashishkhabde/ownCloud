@@ -1,0 +1,11 @@
+---
+layout: default
+title:  "Preface"
+nav_order: 1
+has_children: true
+---
+
+# Preface
+
+This document provides information about installing ownCloud for the latest version. on a private server or cloud and synchronizing the files from local system, mobile devices with ownCloud. 
+The document also provides information about the ownCloud Web user interface and using this interface for effective and easy synchronization.

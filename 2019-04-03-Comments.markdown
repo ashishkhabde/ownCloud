@@ -1,0 +1,10 @@
+---
+layout: default
+title:  "Comments"
+parent: "Preface"
+nav_order: 5
+---
+
+
+## Comments
+Please send us your comments on this document to <doc.comments@ownCloud.com>. Please include the document title, revision, and page number and refer to specific sections and paragraphs wherever possible.

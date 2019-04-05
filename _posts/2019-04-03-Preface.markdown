@@ -1,0 +1,39 @@
+---
+layout: #default
+title:  "Preface"
+date:   2019-04-03 12:24:47 +0530
+categories: jekyll update
+---
+
+# Preface
+
+This document provides information about installing ownCloud for the latest version. on a private server or cloud and synchronizing the files from local system, mobile devices with ownCloud. 
+The document also provides information about the ownCloud Web user interface and using this interface for effective and easy synchronization.
+This chapter includes the following information:
+
+- Product Version
+- Related Documents
+- Getting Help
+- Comments 
+
+## Intended Audience
+This document is intended for developers, product managers, network specialists, Sales and Marketing personnel to install ownCloud on personal Servers.
+
+## Product Version
+
+This document revision applies to the ownCloud Version 10.0.10.
+
+## Related Documents
+- ownCloud Desktop Client Administrators Guide
+- ownCloud Android App User’s Guide
+- ownCloud iOS App User’s Guide
+
+## Getting Help
+The ownCloud support staff is available for 24 hours a day, seven days a week. If you need write to support center staff, please login to [https://owncloud.com/licenses/owncloud-support-maintenance]([https://owncloud.com/licenses/owncloud-support-maintenance)
+
+If you need to call the Support Center, make sure to provide the following items:
+- Instances about the error or failure
+- Debug information
+
+## Comments
+Please send us your comments on this document to <doc.comments@ownCloud.com>. Please include the document title, revision, and page number and refer to specific sections and paragraphs wherever possible.
